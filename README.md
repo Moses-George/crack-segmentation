@@ -17,7 +17,7 @@ cracks on buildins are early indicators of structural deterioration. Accurate de
 
 - Preventive maintenance planning
 - Pavement Condition Index (PCI) estimation
-- Infrastructure lifecycle management
+- Infrastructure lifecycle management  
 
 However, cracks are:
 
