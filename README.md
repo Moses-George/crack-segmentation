@@ -13,10 +13,10 @@ The work is motivated by the need to improve infrastructure inspection, where tr
 
 ## 🎯 Research Motivation
 
-cracks on buildins are early indicators of structural deterioration. Accurate detection and characterization are essential for:
+cracks on buildings are early indicators of structural deterioration. Accurate detection and characterization are essential for:
 
 - Preventive maintenance planning
-- Pavement Condition Index (PCI) estimation
+<!-- - Pavement Condition Index (PCI) estimation -->
 - Infrastructure lifecycle management  
 
 However, cracks are:
